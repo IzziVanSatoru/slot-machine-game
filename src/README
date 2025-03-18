@@ -1,0 +1,72 @@
+# 🎰 Slot Machine Game
+
+A fun and simple Slot Machine game built with **Vue 3 + TypeScript** and Vite. This project is just for entertainment purposes – **Stop gambling! It's dumb. Have fun without risking your money.**
+
+## 🚀 Features
+
+- 🎡 Slot machine with 3 reels and multiple symbols
+- 🎁 Win 3x your bet if you hit the jackpot
+- 📊 Dashboard to track wins, losses, and total tokens
+- 🧑‍💻 Cheat button for guaranteed wins (for fun)
+- 💬 Encouraging messages to stop gambling
+
+---
+
+## 🛠️ Installation Guide
+
+1. **Clone the repository:**
+
+```bash
+https://github.com/IzziVanSatoru/slot-machine-game.git
+cd slot-machine-game
+```
+
+2. **Install dependencies:**
+
+```bash
+npm install
+```
+
+3. **Run the development server:**
+
+```bash
+npm run dev
+```
+
+4. **Open the game:**
+
+Access the game at: [http://localhost:5173](http://localhost:5173)
+
+---
+
+## 📋 How to Play
+
+1. Enter the number of tokens you want to bet.
+2. Click the **"Spin Now"** button.
+3. Match all 3 symbols to win 3x your bet.
+4. Check your stats on the dashboard.
+
+🎯 **Tip:** Click on the hidden **CHEAT** button in the bottom-right corner for a guaranteed win (for fun).
+
+---
+
+## 📢 Important Notice
+
+> **STOP NORMALIZING GAMBLING. STOP GAMBLING, YOU FOOL!** 🎲
+
+This game is purely for fun. Gambling can lead to financial loss and other serious problems – **don't normalize it.** Play responsibly and enjoy this harmless virtual slot machine!
+
+---
+
+## 📄 License
+
+MIT License. Free to use, share, and modify.
+
+---
+
+## ❤️ Special Message
+
+Have fun, but **don't gamble in real life** – it's not worth it. 🙅‍♂️
+
+> **"Gambling: A sure way of getting nothing for something."**
+
